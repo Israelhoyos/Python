@@ -27,9 +27,6 @@ Aplicar técnicas de machine learning o modelos estadísticos para hacer predicc
 ### Evaluación:
 Evaluar el rendimiento del modelo utilizando métricas adecuadas y ajustar según sea necesario.
 
-
-#### Conclusión
-
 ### Visualización:
 Crear gráficos y visualizaciones para comunicar los hallazgos y resultados del análisis.
 
