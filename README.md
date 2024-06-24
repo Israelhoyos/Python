@@ -32,3 +32,7 @@ Python es uno de los lenguajes de programación más populares y potentes para e
 
 ### Exportación de Resultados:
 * Guardar los resultados en archivos o bases de datos para su uso posterior.
+----
+## Bibliotecas Clave
+#### 1. pandas
+pandas es la biblioteca principal para la manipulación y análisis de datos. Proporciona estructuras de datos flexibles como DataFrames y Series.
