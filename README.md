@@ -42,3 +42,6 @@ numpy es la biblioteca fundamental para computación científica en Python. Prop
 
 #### 3. matplotlib
 matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
+
+#### 4. seaborn
+seaborn es una biblioteca basada en matplotlib que proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos y fáciles de entender.
