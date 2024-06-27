@@ -40,8 +40,8 @@ Pandas es la biblioteca principal para la manipulación y análisis de datos. Pr
 #### 2. Numpy
 Numpy es la biblioteca fundamental para computación científica en Python. Proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas para operar con estos arrays.
 
-#### 3. matplotlib
-matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
+#### 3. Matplotlib
+Matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
 
 #### 4. seaborn
 seaborn es una biblioteca basada en matplotlib que proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos y fáciles de entender.
