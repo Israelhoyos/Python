@@ -45,3 +45,6 @@ matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e i
 
 #### 4. seaborn
 seaborn es una biblioteca basada en matplotlib que proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos y fáciles de entender.
+
+#### 5. scikit-learn
+scikit-learn es una biblioteca para machine learning que proporciona herramientas simples y eficientes para análisis de datos y minería de datos.
