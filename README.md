@@ -35,7 +35,7 @@ Python es uno de los lenguajes de programación más populares y potentes para e
 ----
 ## Bibliotecas Clave
 #### 1. Pandas
-Pandas es la biblioteca principal para la manipulación y análisis de datos. Proporciona estructuras de datos flexibles como DataFrames y Series.
+**Pandas** es la biblioteca principal para la manipulación y análisis de datos. Proporciona estructuras de datos flexibles como DataFrames y Series.
 
 #### 2. Numpy
 Numpy es la biblioteca fundamental para computación científica en Python. Proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas para operar con estos arrays.
