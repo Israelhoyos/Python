@@ -38,7 +38,7 @@ Python es uno de los lenguajes de programación más populares y potentes para e
 **Pandas** es la biblioteca principal para la manipulación y análisis de datos. Proporciona estructuras de datos flexibles como DataFrames y Series.
 
 #### 2. Numpy
-Numpy es la biblioteca fundamental para computación científica en Python. Proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas para operar con estos arrays.
+**Numpy** es la biblioteca fundamental para computación científica en Python. Proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas para operar con estos arrays.
 
 #### 3. Matplotlib
 Matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
