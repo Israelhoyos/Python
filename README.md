@@ -41,7 +41,7 @@ Python es uno de los lenguajes de programación más populares y potentes para e
 **Numpy** es la biblioteca fundamental para computación científica en Python. Proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas para operar con estos arrays.
 
 #### 3. Matplotlib
-Matplotlib es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
+**Matplotlib** es una biblioteca para crear visualizaciones estáticas, animadas e interactivas en Python.
 
 #### 4. Seaborn
 Seaborn es una biblioteca basada en matplotlib que proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos y fáciles de entender.
