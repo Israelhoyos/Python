@@ -1,6 +1,6 @@
 # Python
 
-**Python** es uno de los lenguajes de programación más populares y potentes para el análisis de datos. Esto se debe a su simplicidad, flexibilidad y a una amplia gama de bibliotecas y herramientas que facilitan la manipulación, el análisis y la visualización de datos. Aquí hay un resumen de cómo se utiliza Python en el análisis de datos y algunas de las bibliotecas clave:
+**PYTHON** es uno de los lenguajes de programación más populares y potentes para el análisis de datos. Esto se debe a su simplicidad, flexibilidad y a una amplia gama de bibliotecas y herramientas que facilitan la manipulación, el análisis y la visualización de datos. Aquí hay un resumen de cómo se utiliza Python en el análisis de datos y algunas de las bibliotecas clave:
 
 ## Pasos en el Análisis de Datos con Python
 ### Importación de Bibliotecas:
